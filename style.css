@@ -76,3 +76,7 @@
     box-shadow: 0 0 #ffe00b, 0 0 #151515;
     color: white;
   }
+
+  .inter{
+    font-family: 'Inter', sans-serif;
+  }
